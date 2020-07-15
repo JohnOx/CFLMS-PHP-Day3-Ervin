@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main_header {
+    background-image: url("../img/header.jpg");
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
